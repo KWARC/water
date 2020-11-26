@@ -1,6 +1,6 @@
 # Water -- WissKI Automation Tool & Execution Robot
 
-** This repository is a plan for how water will work. It hasn't been implemented yet **
+***This repository is a plan for how water will work. It hasn't been implemented yet***
 
 This repository contains the source code of water. 
 Water is a tool for automatically installing a maintaining a WissKI Factory or single WissKI installation. 
